@@ -22,7 +22,7 @@ Katrina Bykova
 
 **Data**
 
-*Google AudioSet*.  A library of manually annotated sound recordings.
+*Google AudioSet*.  [A library of manually annotated sound recordings](https://research.google.com/audioset/download.html)
 
 *YouTube*.  Sound recordings of speech and house sounds.
 
